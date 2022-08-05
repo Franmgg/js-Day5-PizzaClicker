@@ -1,2 +1,11 @@
-# js-Day5-PizzaClicker
-Creamos un Pizza clicker con ello podemos aprender las bases de Javascript
+# <div align="center">El Ahorcado en Javascript - Dia 1 </div>  
+
+Vamos a crear el Pizza clicker, es una aplicación con la que aprenderemos a jugar con Javascript.
+  
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/960933422363209800/1005215605621784718/pizza.png" align="center" height="" width="" />
+</div>  
+  
+----
+
