@@ -1,4 +1,4 @@
-# <div align="center">El Ahorcado en Javascript - Dia 1 </div>  
+# <div align="center">Pizza Clicker - Dia 5 </div>  
 
 Vamos a crear el Pizza clicker, es una aplicación con la que aprenderemos a jugar con Javascript.
   
